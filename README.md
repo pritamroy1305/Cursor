@@ -88,7 +88,7 @@ repo-name/
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/pritamroy1305/Cursor/tree/main)
+   git clone https://github.com/pritamroy1305/Cursor/tree/main
    ```
 
 2. Open `index.html` in your browser
@@ -101,4 +101,4 @@ repo-name/
 
 ---
 
-**Author:** [Your Name](https://github.com/your-username)
+**Author:** [Pritam Roy](https://github.com/pritamroy1305)
