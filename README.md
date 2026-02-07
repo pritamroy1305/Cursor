@@ -1,3 +1,6 @@
+![Uploading Screenshot Capture - 2026-02-07 - 12-18-04.jpg…]()
+
+
 # Cursor Landing Page – HTML & CSS Recreation
 
 This project is a **static HTML + CSS recreation of selected sections from the Cursor landing page**.  
