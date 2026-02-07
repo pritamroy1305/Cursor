@@ -1,4 +1,4 @@
-![Uploading Screenshot Capture - 2026-02-07 - 12-18-04.jpg…]()
+![Screenshot Capture - 2026-02-07 - 12-18-04](https://github.com/user-attachments/assets/c299d293-3478-483e-a590-b269e2237589)
 
 
 # Cursor Landing Page – HTML & CSS Recreation
