@@ -62,7 +62,7 @@ Screenshots of the final output are included in the repository for reference and
 - Typography hierarchy
 - Image placement
 
-> **Note:** Screenshots are located in the `/screenshots` folder
+
 
 ## 🌐 Live Demo
 
@@ -75,12 +75,12 @@ Screenshots of the final output are included in the repository for reference and
 repo-name/
 ├── index.html
 ├── styles.css
-├── screenshots/
-│   ├── screenshot-1.png
-│   └── screenshot-2.png
-├── assets/
-│   ├── images/
-│   └── icons/
+├── images/
+│   ├── Cursor_logo.svg.png
+│   └── Screenshot Capture - 2026-02-07 - 11-21-10.jpg
+│   ├── feature-1..jpg
+│   └── feature-2..jpg
+│   └── feature-3..jpg
 └── README.md
 ```
 
@@ -88,7 +88,7 @@ repo-name/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone (https://github.com/pritamroy1305/Cursor/tree/main)
    ```
 
 2. Open `index.html` in your browser
